@@ -1,5 +1,7 @@
 #  About Me:
-# Hi, I’m Funke Omolere <br><br>🏆 One of the Most Inspiring Women in the UK 2026  <br>🎤 Speaker — BSides London 2025  <br> GRC Professional learning to build AI powered compliance tools  <br>👩🏾‍💻 Working mother of three — doing school runs and git commits<br><br>-----<br><br>### 🔭 GRC Compliance Skills EMEA — an open source Claude Skills library covering Cyber Essentials Plus, DORA, BSI C5, EU AI Act, TISAX, and Spain ENS. All 6 skills live at funkeomolere.github.io/Claude-Skills-GRC-UK
+# Hi, I’m Funke Omolere <br><br>🏆 One of the Most Inspiring Women in the UK 2026  <br>🎤 Speaker — BSides London 2025  <br> GRC Professional learning to build AI powered compliance tools  <br>👩🏾‍💻 Working mother of three — doing school runs and git commits<br><br>-----<br><br>### I'm currently working on
+
+🔭 GRC Compliance Skills EMEA — an open source Claude Skills library covering Cyber Essentials Plus, DORA, BSI C5, EU AI Act, TISAX, and Spain ENS. All 6 skills live at funkeomolere.github.io/Claude-Skills-GRC-UK
 AI assisted compliance monitoring using Claude Code SDK and Cursor AI
 ctrl.funke — a personal GRC control tools site covering ISO 27001, NIST CSF, DORA, EU AI Act, and more
 My personal Life OS — the Mum Command Center

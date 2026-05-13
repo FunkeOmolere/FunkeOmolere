@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # Funke Omolere
 
 🏆 One of the Most Inspiring Women in Cyber 2026

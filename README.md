@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./Firefly_A_Black_woman_GRC_engineer_at_a_desk_with_multiple_monitors_showing_code_and_complian_605181.png)
 # Funke Omolere
 
 🏆 One of the Most Inspiring Women in Cyber 2026
